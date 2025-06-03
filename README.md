@@ -6,4 +6,4 @@ I'm a recent Computer Science graduate from Michigan State University and an asp
 - Tech I'm interested in expanding my knowledge in: React, Node.js, Python, C++, Java
 - Reach me: [connorsheridan03@gmail.com](mailto:connorsheridan03@gmail.com)
 - [My Portfolio](https://csher248.github.io)
-- [My linkedin] (https://www.linkedin.com/in/connorsheridan03/)
+- [My LinkedIn](https://www.linkedin.com/in/connorsheridan03/)
